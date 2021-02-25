@@ -1,3 +1,3 @@
 # JS-Basic
 
-Hi
+Hi!
